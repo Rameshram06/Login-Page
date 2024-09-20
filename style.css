@@ -1,0 +1,57 @@
+.image{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    justify-content: center;
+}
+.addclub{
+   
+    border: 3px solid beige;
+    background-color:lightsteelblue;
+    padding: 10px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 3rem;
+}
+#username{
+    border-radius: 0px;
+}
+#password{
+    border-radius: 0px;
+}
+.card-body{
+    background-color:rgb(240, 234, 227);
+}
+.Menu{
+    background-color:midnightblue;
+    font-size: x-large;
+    color: white;
+}
+.details{
+
+    background-color: aqua;
+    border-radius: 25px;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+}
+.mt-4{
+    background-color:cornflowerblue;
+    color: aliceblue;
+    text-align: center;
+    width: 100%;
+}
+.table-bordered{
+    width: 100%;
+    background-color:lightblue;
+    text-align: justify;
+}
+#club-table-body{
+    background-color: rgb(111, 139, 152);
+}
+.form-group{
+    font-weight: bold;
+}
+.form-control{
+    border-radius: 25px;
+}
